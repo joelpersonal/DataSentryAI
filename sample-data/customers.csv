@@ -1,0 +1,26 @@
+customer_id,company_name,contact_name,email,phone,industry,country,city,postal_code,registration_date
+1,Tech Solutions Inc,John Smith,john@techsolutions.com,+1-555-0101,Technology,USA,New York,10001,2023-01-15
+2,Global Marketing LLC,Jane Doe,jane.doe@globalmarketing.com,555.0102,Marketing,USA,Los Angeles,90210,2023-02-20
+3,Sales Pro Corp,Mike Johnson,mike@salespro.com,(555) 0103,Sales,Canada,Toronto,M5V 3A8,2023-03-10
+4,HR Experts,Sarah Williams,sarah@hrexperts.com,555-0104,Human Resources,USA,Chicago,60601,2023-04-05
+5,DevOps Masters,David Brown,david.brown@devopsmasters.com,+1 555 0105,Technology,USA,San Francisco,94102,2023-05-12
+6,Creative Agency,Lisa Davis,lisa@creativeagency.com,555.0106,Marketing,UK,London,SW1A 1AA,2023-06-30
+7,Sales Force One,Tom Wilson,tom.wilson@salesforceone.com,(555) 0107,Sales,USA,Boston,02101,2023-07-18
+8,People First HR,Amy Taylor,amy@peoplefirsthr.com,555-0108,Human Resources,Canada,Vancouver,V6B 1A1,2023-08-01
+9,Tech Solutions Inc,John Smith,john@techsolutions.com,+1-555-0101,Technology,USA,New York,10001,2023-01-15
+10,Innovation Labs,Robert Anderson,robert@innovationlabs.com,555-0110,Technology,USA,Seattle,98101,2023-09-14
+11,Brand Builders,Jennifer Thomas,jennifer@brandbuilders.com,555.0111,Marketing,USA,Miami,33101,2023-10-22
+12,Enterprise Sales,Michael Jackson,michael@enterprisesales.com,(555) 0112,Sales,USA,Dallas,75201,2023-11-08
+13,Talent Acquisition Co,Emily White,emily@talentacquisition.com,555-0113,Human Resources,USA,Denver,80202,2023-12-11
+14,Web Development Pro,Chris Martin,chris@webdevpro.com,+1 555 0114,Technology,Canada,Montreal,H3A 0G4,2024-01-25
+15,Digital Marketing Hub,Jessica Garcia,jessica@digitalmarketinghub.com,555.0115,Marketing,USA,Phoenix,85001,2024-02-03
+16,Sales Accelerator,Daniel Rodriguez,daniel@salesaccelerator.com,(555) 0116,Sales,USA,Philadelphia,19101,2024-03-17
+17,Workforce Solutions,Ashley Lewis,ashley@workforcesolutions.com,555-0117,Human Resources,USA,San Diego,92101,2024-04-29
+18,Cloud Computing Corp,Matthew Lee,matthew@cloudcomputing.com,555-0118,Technology,USA,Austin,73301,2024-05-14
+19,Growth Marketing,Amanda Walker,amanda@growthmarketing.com,555.0119,Marketing,UK,Manchester,M1 1AA,2024-06-08
+20,Revenue Optimization,James Hall,james@revenueoptimization.com,(555) 0120,Sales,USA,Portland,97201,2024-07-22
+21,Learning & Development,Megan Allen,megan@learningdevelopment.com,555-0121,Human Resources,Canada,Calgary,T2P 0L4,2024-08-16
+22,Quality Assurance Ltd,Kevin Young,kevin@qualityassurance.com,+1 555 0122,Technology,USA,Las Vegas,89101,2024-09-30
+23,Content Marketing Pro,Rachel King,rachel@contentmarketingpro.com,555.0123,Marketing,USA,Orlando,32801,2024-10-14
+24,Inside Sales Team,Brian Wright,brian@insidesalesteam.com,(555) 0124,Sales,USA,Nashville,37201,2024-11-02
+25,Benefits Administration,Nicole Lopez,nicole@benefitsadmin.com,555-0125,Human Resources,USA,Salt Lake City,84101,2024-12-25

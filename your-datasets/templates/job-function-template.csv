@@ -1,0 +1,6 @@
+employee_id,employee_name,current_job_title,department,job_function,job_level,skills_required,experience_years,salary_range,reports_to,team_size,location
+EMP001,John Smith,Senior Software Engineer,Engineering,Software Development,Senior,Java Python React,5,70000-90000,Engineering Manager,0,New York
+EMP002,Jane Doe,Marketing Manager,Marketing,Marketing Management,Manager,Digital Marketing SEO Analytics,7,60000-80000,Marketing Director,3,Los Angeles
+EMP003,Mike Johnson,Sales Representative,Sales,Sales Execution,Junior,CRM Communication Negotiation,2,40000-60000,Sales Manager,0,Chicago
+EMP004,Sarah Williams,Financial Analyst,Finance,Financial Analysis,Mid-level,Excel SQL Financial Modeling,4,55000-75000,Finance Manager,0,New York
+EMP005,David Brown,Product Manager,Product,Product Management,Senior,Agile Roadmapping User Research,6,80000-100000,VP Product,2,San Francisco

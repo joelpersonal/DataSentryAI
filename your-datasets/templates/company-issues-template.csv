@@ -1,0 +1,6 @@
+issue_id,issue_title,category,department_affected,priority,status,reported_by,reported_date,description,impact_level,estimated_cost,assigned_team,target_resolution,actual_resolution
+COMP001,Server Downtime,Technical,IT,Critical,Resolved,John Smith,2023-01-15,Main server crashed causing system outage,High,50000,IT Support,2023-01-16,2023-01-15
+COMP002,Budget Overrun,Financial,Finance,High,In Progress,Jane Doe,2023-01-20,Q1 marketing budget exceeded by 25%,Medium,25000,Finance Team,2023-02-01,
+COMP003,Customer Complaints,Service,Customer Support,Medium,Open,Mike Johnson,2023-01-25,Increase in product quality complaints,Medium,15000,Quality Assurance,2023-02-15,
+COMP004,Security Breach,Security,IT,Critical,Resolved,Sarah Williams,2023-02-01,Unauthorized access to customer database,High,100000,Security Team,2023-02-02,2023-02-01
+COMP005,Supply Chain Delay,Operations,Operations,High,In Progress,David Brown,2023-02-05,Key supplier delayed shipment by 2 weeks,High,75000,Operations Team,2023-02-20,

@@ -1,0 +1,4 @@
+customer_id,company_name,contact_name,email,phone,industry,country,city,registration_date
+1,Tech Solutions Inc,John Smith,john@techsolutions.com,555-0101,Technology,USA,New York,2023-01-15
+2,Global Marketing LLC,Jane Doe,jane@globalmarketing.com,555-0102,Marketing,USA,Los Angeles,2023-02-20
+3,Sales Pro Corp,Mike Johnson,mike@salespro.com,555-0103,Sales,Canada,Toronto,2023-03-10

@@ -1,0 +1,26 @@
+id,first_name,last_name,email,phone,department,job_title,hire_date,salary,manager_id
+1,John,Smith,john.smith@company.com,555-0101,Engineering,Software Engineer,2023-01-15,75000,5
+2,Jane,Doe,jane.doe@company.com,555-0102,Marketing,Marketing Manager,2022-03-20,68000,6
+3,Mike,Johnson,mike.johnson@company.com,555-0103,Sales,Sales Representative,2023-02-10,55000,7
+4,Sarah,Williams,sarah.williams@company.com,555-0104,HR,HR Specialist,2022-11-05,52000,8
+5,David,Brown,david.brown@company.com,555-0105,Engineering,Senior Software Engineer,2021-06-12,95000,
+6,Lisa,Davis,lisa.davis@company.com,555-0106,Marketing,Marketing Director,2020-08-30,85000,
+7,Tom,Wilson,tom.wilson@company.com,555-0107,Sales,Sales Manager,2021-04-18,78000,
+8,Amy,Taylor,amy.taylor@company.com,555-0108,HR,HR Manager,2020-12-01,72000,
+9,John,Smith,john.smith@company.com,555-0101,Engineering,Software Engineer,2023-01-15,75000,5
+10,Robert,Anderson,robert.anderson@company.com,555-0110,Engineering,DevOps Engineer,2022-09-14,82000,5
+11,Jennifer,Thomas,jennifer.thomas@company.com,555-0111,Marketing,Content Specialist,2023-05-22,48000,6
+12,Michael,Jackson,michael.jackson@company.com,555-0112,Sales,Account Executive,2022-07-08,62000,7
+13,Emily,White,emily.white@company.com,555-0113,HR,Recruiter,2023-03-11,45000,8
+14,Chris,Martin,chris.martin@company.com,555-0114,Engineering,Frontend Developer,2023-04-25,70000,5
+15,Jessica,Garcia,jessica.garcia@company.com,555-0115,Marketing,Social Media Manager,2022-12-03,51000,6
+16,Daniel,Rodriguez,daniel.rodriguez@company.com,555-0116,Sales,Sales Development Rep,2023-06-17,47000,7
+17,Ashley,Lewis,ashley.lewis@company.com,555-0117,HR,Benefits Coordinator,2022-10-29,44000,8
+18,Matthew,Lee,matthew.lee@company.com,555-0118,Engineering,Backend Developer,2023-02-14,73000,5
+19,Amanda,Walker,amanda.walker@company.com,555-0119,Marketing,Marketing Analyst,2023-01-08,54000,6
+20,James,Hall,james.hall@company.com,555-0120,Sales,Regional Sales Manager,2021-11-22,89000,
+21,Megan,Allen,megan.allen@company.com,555-0121,HR,Training Specialist,2022-08-16,49000,8
+22,Kevin,Young,kevin.young@company.com,555-0122,Engineering,QA Engineer,2023-03-30,65000,5
+23,Rachel,King,rachel.king@company.com,555-0123,Marketing,Brand Manager,2022-05-14,63000,6
+24,Brian,Wright,brian.wright@company.com,555-0124,Sales,Inside Sales Rep,2023-07-02,43000,7
+25,Nicole,Lopez,nicole.lopez@company.com,555-0125,HR,Compensation Analyst,2022-09-25,58000,8

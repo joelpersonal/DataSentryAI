@@ -1,0 +1,7 @@
+Name,Email,Industry,Job Title
+John Doe,john@gmal.com,Tech,Soft Eng
+Jane Smith,jane@outlook.com,Fin,VP Sales
+Alice Jones,alice@company.net,Healtcare,Head of Ops
+Bob Brown,bob@gmail.com,Manufacturing,Manager
+John Doe,john@gmal.com,Tech,Soft Eng
+Invalid User,invalid-email,Unknnown,Intern

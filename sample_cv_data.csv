@@ -1,0 +1,16 @@
+name,email,phone,job_title,company,experience_years,skills,location,salary_expectation
+John Smith,john.smith@email.com,+1-555-0123,Software Engineer,TechCorp Inc,5,"Python, JavaScript, React",New York NY,85000
+Sarah Johnson,sarah.j@company.co,555.234.5678,Product Manager,InnovateLabs,7,"Product Strategy, Agile, Analytics",San Francisco CA,120000
+Mike Davis,,+1 (555) 345-6789,Data Scientist,DataTech Solutions,3,"Python, SQL, Machine Learning",Austin TX,95000
+Emily Chen,emily.chen@startup.io,5554567890,UX Designer,DesignStudio,4,"Figma, User Research, Prototyping",Seattle WA,78000
+Robert Wilson,bob.wilson@corp.com,555-567-8901,Senior Developer,MegaCorp,8,"Java, Spring, Microservices",Boston MA,110000
+Lisa Anderson,lisa@email,+1.555.678.9012,Marketing Manager,BrandCo,6,"Digital Marketing, SEO, Content",Chicago IL,75000
+David Brown,david.brown@tech.com,555 789 0123,DevOps Engineer,CloudSystems,5,"AWS, Docker, Kubernetes",Denver CO,98000
+Jennifer Taylor,,555-890-1234,Business Analyst,ConsultingFirm,4,"Requirements Analysis, Process Improvement",Miami FL,72000
+Michael Johnson,mike.johnson@company.com,+15559012345,Full Stack Developer,WebSolutions,6,"React, Node.js, MongoDB",Portland OR,88000
+Amanda White,amanda.white@startup.com,555.901.2346,Data Analyst,AnalyticsPro,3,"SQL, Tableau, Excel",Nashville TN,65000
+James Miller,james@email.co,555-012-3457,Project Manager,ProjectCorp,7,"PMP, Scrum, Risk Management",Atlanta GA,92000
+Jessica Garcia,jessica.garcia@company.io,+1 555 123 4568,QA Engineer,TestingSolutions,4,"Automation, Selenium, Testing",Phoenix AZ,70000
+Christopher Lee,chris.lee@tech.co,555.234.5679,Solutions Architect,ArchitectureFirm,9,"System Design, Cloud Architecture",Las Vegas NV,125000
+Ashley Martinez,ashley@startup.co,555-345-6780,HR Manager,PeopleCorp,5,"Talent Acquisition, Employee Relations",San Diego CA,68000
+Daniel Rodriguez,daniel.rodriguez@company.com,+1(555)456-7891,Backend Developer,ServerTech,4,"Python, Django, PostgreSQL",Orlando FL,82000

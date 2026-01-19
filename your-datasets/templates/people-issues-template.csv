@@ -1,0 +1,5 @@
+issue_id,person_name,employee_id,email,phone,department,issue_type,issue_description,severity,reported_date,status,assigned_to,resolution_date
+1,John Smith,EMP001,john.smith@company.com,555-0101,Engineering,Performance,Low productivity and missed deadlines,High,2023-01-15,Open,HR Manager,
+2,Jane Doe,EMP002,jane.doe@company.com,555-0102,Marketing,Attendance,Frequent tardiness and absences,Medium,2023-01-20,In Progress,Department Head,
+3,Mike Johnson,EMP003,mike.johnson@company.com,555-0103,Sales,Behavior,Unprofessional conduct with clients,High,2023-01-25,Resolved,HR Manager,2023-02-01
+4,Sarah Williams,EMP004,sarah.williams@company.com,555-0104,Finance,Skills,Needs training on new software,Low,2023-02-01,Open,Training Coordinator,

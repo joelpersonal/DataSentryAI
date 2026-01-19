@@ -1,0 +1,21 @@
+=== Starting DataSentry AI Hackathon Demo ===
+
+1. Uploading 'People_Issues.csv'...
+   Upload Success! File ID: 93502d18-dab7-413d-8f0b-6212dc0a5288
+
+2. Running Analysis (Mode: People + AI Mapping)...
+   Overall Data Quality Score: 83/100
+   Total Records: 6
+   Job Functions Mapped: 6
+
+   --- Issues Detected ---
+   Row 6 [email]: Invalid email format (Severity: high)
+
+   --- AI Corrections & Normalization ---
+   Row 1 [email]: "john@gmal.com" -> "john@gmail.com" (Conf: 0.88)
+   Row 1 [industry]: "Tech" -> "Technology" (Conf: 1)
+   Row 2 [industry]: "Fin" -> "Finance" (Conf: 1)
+   Row 3 [industry]: "Healtcare" -> "Healthcare" (Conf: 0.89)
+   Row 5 [email]: "john@gmal.com" -> "john@gmail.com" (Conf: 0.88)
+
+=== Demo Complete ===
